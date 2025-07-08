@@ -19,5 +19,3 @@ Primeros pasos con TypeScript y JavaScript. Incluye scripts sencillos y ejemplos
 Proyecto de ejemplo utilizando React con TypeScript. Incluye una aplicación de lista de tareas (To-Do List) donde se puede agregar y eliminar tareas. Es ideal para practicar el desarrollo de aplicaciones modernas con React y TypeScript.
 
 ---
-
-Cada carpeta contiene su propio archivo `README.md` o documentación adicional según corresponda. Se recomienda revisar cada una para más detalles sobre su contenido y uso.
